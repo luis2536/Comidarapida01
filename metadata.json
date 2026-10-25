@@ -1,0 +1,6 @@
+{
+  "name": "Street Food Pro",
+  "description": "Sistema Integral de Caja POS, Inventario, Personal y Gestión Operativa para locales de comida rápida",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
